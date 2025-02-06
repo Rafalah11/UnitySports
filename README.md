@@ -1,8 +1,19 @@
 <p align="center">
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20153514.png" width="400" alt="Halaman Daftar Lapangan (Admin)">
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20152841.png" width="400" alt="Halaman HomePage">
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20153836.png" alt="Halaman Login">
+    <strong>Nomor 1: Halaman Daftar Lapangan</strong>
+    <br>
+    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20152841.png" width="400" alt="Halaman Daftar Lapangan (Admin)">
+    <br><br>
+
+    <strong>Nomor 2: Halaman HomePage</strong>
+    <br>
+    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20153514.png" width="400" alt="Halaman HomePage">
+    <br><br>
+
+    <strong>Nomor 3: Halaman Login</strong>
+    <br>
+    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20153836.png" width="400" alt="Halaman Login">
 </p>
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
