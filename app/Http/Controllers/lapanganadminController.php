@@ -55,7 +55,7 @@ class lapanganadminController extends Controller
             'alamat' => 'required|string|max:250',
             'kontak' => 'required|string|max:15',
             'provinsi' => 'required|string|max:255',
-            'gambar' => 'required|image|mimes:jpeg,png,jpg|max:2048',
+            'gambar' => 'required|image|mimes:jpeg,png,jpg|max:3048',
             'harga' => 'required|numeric',
             'keterangan_harga' => 'required|string|max:20',
             'kabupaten' => 'required|string|max:25',
