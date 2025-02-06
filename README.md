@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="public/storage/images/Screenshot 2025-02-06 152841.png" width="400" alt="Halaman Daftar Lapangan (Admin)">
+    <img src="https://github.com/KBT_WEB tanggal 2 juli 2024/public/storage/images/Screenshot 2025-02-06 152841.png" width="400" alt="Halaman Daftar Lapangan (Admin)">
     <img src="public/storage/images/Screenshot 2025-02-06 153514.png" width="400" alt="Halaman HomePage">
     <img src="public/storage/images/Screenshot 2025-02-06 153836.png" width="400" alt="Halaman Login">
 </p>
